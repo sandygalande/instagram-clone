@@ -1,0 +1,87 @@
+body{
+    background-color: darksalmon;
+}
+.container{
+    width: 300px;
+    background-color: white;
+    border: 1px solid gray;
+    margin: 100px auto;
+    border-radius: 10px;
+}
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+}
+.nav-bar img {
+    width: 80px;
+}
+.fa-plus{
+    margin-left: 150px;
+}
+.story img{
+    width: 40px;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+.name{
+    font-size: 10px;
+}
+.main{
+    display: flex;
+}
+.main img{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    margin: 10px 5px 0px 5px;
+}
+.main p{
+    font-size: 10px;
+    margin-left: 5px;
+}
+.fa-music{
+    margin-right: 2px;
+    font-size: 7px;
+}
+span{
+    font-size: 8px;
+}
+.location{
+    font-size: 8px;
+}
+.post{
+    width: 295px;
+    height: 300px;
+    margin: 0px 8px 5px 2px;
+}
+.icon{
+    margin-left: 10px;
+}
+.chat{
+    margin-left: 15px;
+}
+.fa-regular{
+    margin-left: 15px;
+}
+.fa-bookmark{
+    margin-left: 180px;
+}
+.icon p{
+    font-size: 10px;
+}
+.footer{
+    margin: 10px;
+}
+.fa-magnifying-glass{
+    margin-left: 45px;
+}
+.fa-square-plus{
+    margin-left: 45px;
+}
+.fa-circle-play{
+    margin-left: 45px;
+}
+.fa-user{
+    margin-left: 45px;
+}
